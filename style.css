@@ -1,0 +1,22 @@
+h2
+   {
+      position: absolute;
+
+      left: 100px;
+      top: 150px;
+   }
+   body{
+     text-align: center;
+   }
+   p{
+     text-align: center;
+     background-color: gray;
+     color: black;
+    
+   }
+   .box{
+     background-color: gray;
+     color: black;
+     padding: 20px;
+    
+   }
